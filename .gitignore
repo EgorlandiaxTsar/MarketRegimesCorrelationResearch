@@ -1,0 +1,10 @@
+data/db
+data/features
+data/parameters
+data/sliced
+__pycache__/
+venv/
+.dev/
+.idea/
+.vscode/
+!**/src/__pycache__
